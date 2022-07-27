@@ -1,2 +1,5 @@
-# projeto-da-ani
-neste repositório, serão postados os projetos desenvolvidos no componente curricular de pensamento computacional
+# sobre mim 
+
+- Olá meu nome é @AniGabrieli
+- Meu email: ani.schneiger@escola.pr.gov.br
+- Eu sou uma aluna que está aprendendo a ´programar, tenho a finidade com a plataforma do scratch
